@@ -1,5 +1,5 @@
 {
-    "name": "neurony/laravel-sort",
+    "name": "rmk147/laravel-sort",
     "description": "Sort Eloquent model records by their attributes or relationships",
     "license": "MIT",
     "keywords": [
